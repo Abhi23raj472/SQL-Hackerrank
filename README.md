@@ -1,0 +1,2 @@
+# SQL-Hackerrank
+practise sql
